@@ -1,0 +1,20 @@
+"Race Results" - Ryan
+"Qualifying Results" - Jen
+"Driver Information" - Eva
+"Finishing Statuses" - Jarred
+
+“Our project is to uncover patterns in race car and race data provided by Formula One data at ergast.com (http://ergast.com/mrd/). The possible relationships we’ll examine include driver performance and attributes and changes in race stats over time. The tables we’re ingesting are finishing statuses, race results, qualifying results, and driver info. Because the dataset date ranges differ, we’ll narrow in on a fixed range so we have good coverage in our analysis.”
+
+Use year 2003 to 2018. Call year `season` and driver ID `driverId`.
+
+Questions we are trying to answer:
+   If drivers are in qualifying results top 3 spots, how did their race performance look in that and the next year?
+   How does age relate to driver performance (race results)?
+   Has average race age changed over time?
+   How does age by country vary? Scatterpolot of age by country.
+
+If we need more questions:
+   Map geo (lat/long) of races on map or scatterplot.
+
+Stretch goal (for @RyanH :wink: :
+   How does experience (total years racing) relate to driver performance (race results)? (edited) 
